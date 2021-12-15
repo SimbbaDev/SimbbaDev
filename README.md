@@ -2,3 +2,4 @@
 - 👀 I’m interested in FiveM Scripting
 - 🌱 I’m currently learning LUA
 - 📫 How to reach me @SimbbaWL@gmail.com
+- Discord Coming Soon
